@@ -1,2 +1,2 @@
 # tempfiles
-tesmperory files
+temperory files
