@@ -1155,8 +1155,8 @@ $methodName = $this->router->method;
 
 
 </script>
-
-<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAMvnpOnA64MXKpF2D8-Fkq2U8mt8rdiXc&amp;libraries=places"></script>
+//AIzaSyAMvnpOnA64MXKpF2D8-Fkq2U8mt8rdiXc
+<script src="http://maps.googleapis.com/maps/api/js?key=***********&amp;libraries=places"></script>
 <script src="<?= base_url('assets/js/') ?>jquery.geocomplete.js"></script>
 <script>
 	// $( "#latitudeInput" ).change(function() {
